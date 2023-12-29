@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hi! I'm Umang!
 
-<!--
-**UmangSharma24/UmangSharma24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Bio:
+- B.S. in Computer Science from [Purdue University](https://cs.purdue.edu/)
+    - Former UTA for CS 193
+- Intern at [now.gg](https://now.gg/) \[2023], [Boyce Systems](https://www.boycesystems.com/) \[2022\], [Knowt](https://knowt.com/) \[2021\]
+- Designer and Team Lead at [Hello World](https://www.instagram.com/helloworldpurdue/?hl=en) hackathon @ Purdue for 3 years \[2020 - 2022\]
 
-Here are some ideas to get you started:
+### Currently: Looking for professional opportunities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact Me:
+Email: umangsharma0524@gmail.com
+LinkedIn: https://www.linkedin.com/in/sharma-umang/
+
+Contact Information is also located on my profile sidebar.
+
+
